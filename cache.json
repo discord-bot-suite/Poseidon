@@ -1,0 +1,16 @@
+{
+    "https://example1.com/": {
+        "protocol": "https",
+        "hostname": "example1.com",
+        "port": "443",
+        "path": "/",
+        "authenticated": true
+    },
+    "https://example2.com/": {
+        "protocol": "https",
+        "hostname": "example2.com",
+        "port": "443",
+        "path": "/",
+        "authenticated": true
+    }
+}
